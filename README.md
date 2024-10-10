@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag
 - 👀 I’m interested in C
-- 🌱 I’m currently learning c,HTML,CSS
+- 🌱 I’m currently learning C,HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 2406542kit.ac.in
 - 😄 Pronouns: ...
